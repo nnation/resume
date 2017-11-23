@@ -2,7 +2,7 @@
 
 This is a modified version of the Latex CV template provided by Adrien Friggeri with my personal info
 
-See this link for the current pdf version: https://github.com/frazras/resume/blob/master/cv_10.pdf
+See this link for the current pdf version: https://github.com/nnation/resume/blob/master/cv.pdf
 
 Credits to Rohan Smith, he introduced me to Latex document and inspired me to create my resume using this technology. 
 

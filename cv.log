@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350 64-bit) (preloaded format=xelatex 2017.10.16)  23 NOV 2017 16:10
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350 64-bit) (preloaded format=xelatex 2017.10.16)  23 NOV 2017 16:18
 entering extended mode
 **./cv.tex
 (cv.tex
@@ -1463,40 +1463,36 @@ LaTeX Info: Redefining \nameref on input line 18.
 \@outlinefile=\write6
 \openout6 = `cv.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 18.
 File: images/net.png Graphic file (type QTm)
-<use  "images/net.png" >
+ <use  "images/net.png" >
 File: images/netcore.png Graphic file (type QTm)
- <use  "images/netcore.png" >
+
+<use  "images/netcore.png" >
 File: images/netframework.png Graphic file (type QTm)
-
-<use  "images/netframework.png" >
+ <use  "images/netframework.png" >
 File: images/CSharp.png Graphic file (type QTm)
- <use  "images/CSharp.png" >
+
+<use  "images/CSharp.png" >
 File: images/email.png Graphic file (type QTm)
-
-<use  "images/email.png" >
+ <use  "images/email.png" >
 File: images/skype.png Graphic file (type QTm)
- <use  "images/skype.png" >
+
+<use  "images/skype.png" >
 File: images/twitter.png Graphic file (type QTm)
-
-<use  "images/twitter.png" >
+ <use  "images/twitter.png" >
 File: images/ch9Icon.png Graphic file (type QTm)
- <use  "images/ch9Icon.png" >
+
+<use  "images/ch9Icon.png" >
 File: images/octocat.png Graphic file (type QTm)
-
-<use  "images/octocat.png" >
+ <use  "images/octocat.png" >
 File: images/stackexchange.png Graphic file (type QTm)
- <use  "images/stackexchange.png" >
-File: images/linkedin.png Graphic file (type QTm)
 
-<use  "images/linkedin.png" >
+<use  "images/stackexchange.png" >
+File: images/linkedin.png Graphic file (type QTm)
+ <use  "images/linkedin.png" >
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 10.00015pt on input line 71.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
@@ -1606,9 +1602,6 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 121.
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 8.39996pt.
  We now make it that large for the rest of the document.
@@ -1627,17 +1620,11 @@ Overfull \hbox (8.55545pt too wide) in paragraph at lines 150--151
 t(1)/m/n/10 GitHub, Visual Studio, npm, Node.js,Gulp,ExpressJS, MongooseJS 
  []
 
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 203.
-
 [2]
 Overfull \hbox (3.95944pt too wide) in paragraph at lines 229--230
 [][][]\TU/HelveticaNeueBold(0)/m/n/10 Verix Application Developers Certificatio
 n[][] \TU/HelveticaNeueLight(1)/m/n/10 (September 2011) Successfully completed
  []
-
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 264.
 
 [3]
 File: images/ch9Icon.png Graphic file (type QTm)
@@ -1673,33 +1660,14 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 5.99991pt on input line 308.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 4.99992pt on input line 308.
-
-
-Package lastpage Warning: Rerun to get the references right on input line 309.
-
-
+ 
 AED: lastpage setting LastPage
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 309.
-
 [4]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 309.
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 309.
  (cv.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 309.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 309.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                cv
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'cv.run.xml'.
 \openout1 = `cv.run.xml'.
 
@@ -1707,7 +1675,7 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of TeX's memory you used:
  38989 strings out of 427834
  744188 string characters out of 3148122
- 1278541 words of memory out of 3000000
+ 1278765 words of memory out of 3000000
  42505 multiletter control sequences out of 15000+200000
  533597 words of font info for 77 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191

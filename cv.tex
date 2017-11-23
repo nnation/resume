@@ -1,0 +1,308 @@
+%!TEX TS-program = xelatex
+\documentclass[]{friggeri-cvRS} 
+\addbibresource{bibliography.bib}
+
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage[lastpage,user]{zref}
+
+\newcommand{\pagenote}[1]{{%
+  \let\thempfn\relax% Remove footnote number printing mechanism
+  \footnotetext[0]{\emph{#1}}% Print footnote text
+}}
+ \newcommand{\updateinfo}[1][\today]{\par\vfill\hfill{\scriptsize\color{gray}Last updated on #1}}
+\pagestyle{fancy}
+
+\cfoot{Page: \thepage\ of \pageref*{LastPage}}
+
+\begin{document}
+\header{Nathaniel }{Nation}
+       {software engineer | \includegraphics[height=18pt]{images/net.png} \includegraphics[height=18pt]{images/netcore.png} \includegraphics[height=18pt]{images/netframework.png} \includegraphics[height=18pt]{images/CSharp.png} developer}
+
+%----------------------------------------------------------------------------------------
+%	SIDEBAR SECTION
+%----------------------------------------------------------------------------------------
+
+% In the aside, each new line forces a line break
+\begin{aside}
+  \section{contact}
+    Nathaniel N. Nation
+    5 Lavender Avenue
+    New Harbour Village 3
+    Old Harbour
+    St. Catherine
+    Jamaica. WI
+    ~
+    +1 (876) 310-2572
+    \href{mailto:nathan406@gmail.com}{Email \includegraphics[height=16pt]{images/email.png}
+    nathan406@gmail}
+    \href{https://web.skype.com/en} {Skype \includegraphics[height=16pt]{images/skype.png}
+    @nathan406}
+    \href{https://twitter.com/NathNation}{Twitter \includegraphics[height=12pt]{images/twitter.png}
+    @NathNation}
+    \href{https://channel9.msdn.com/Niners/nnation}{Channel9 \includegraphics[height=16pt]{images/ch9Icon.png}
+    @nnation}
+    \href {https://github.com/nnation}{GitHub90 \includegraphics[height=16pt]{images/octocat.png}
+    @nnation}
+    \href{https://stackexchange.com/users/1427200/nation?tab=accounts}{StackExchange \includegraphics[height=16pt]{images/stackexchange.png}
+    @nation}
+    \href {https://www.linkedin.com/in/nathaniel-nation-5645642a/}{LinkedIn  \includegraphics[height=16pt]{images/linkedin.png}
+    @Nathaniel Nation}
+    \section{timezone}
+    Easter Standard Time (EST)
+    UTC/GMT -5
+    \section{languages}
+    English (first)
+    Spanish (learning)
+    Klingon
+    Jamaican Creole (informal)
+    \section{nationality}
+    Jamaican
+    \section{programming}
+     C\#, HTML, CSS, JavaScript, Embedded C/C++, Java, MSSQL, MySQL, NoSQL.
+\end{aside}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section{experience}
+
+\setbox1=\hbox{$\bullet$}
+\begin{entrylist}
+  \entry
+    {2014--Present}
+    {Management Control Systems Ltd}
+    {Kingston, Jamaica (Onsite \& Remote)}
+    {\emph{Lead Software Developer}
+    \begin{itemize}
+	\item Technology Lead \& Project Lead for various project.
+	\item Scrum Master, oversee and manage a development team.
+	\item Design, develop, enhance, and maintain web-based, mobile desktop and POS applications \& solutions.
+	\item Key stake holder in the use of software architectural design patterns (n-tier, onion, DDD) and conduct code reviews.
+	\item Lead troubleshooting, diagnostic and analytics exercises.
+	\item Guide in Test Driven Developement, conduct and assist in integration testing.
+	\item Work close with a variety of end users to ensure technical compatibility and user satisfaction.
+	\item Provide consultancy to partner and associated companies.\\
+
+    \end{itemize}}
+  \entry
+    {2011--2014}
+    {Management Control Systems Ltd}
+    {Kingston, Jamaica (Onsite \& Remote)}
+    {\emph{Software Developer}
+    \begin{itemize}
+	\item Develop, Maintain and support regional (Caribbean) Electronic Top-Up Systems.
+	\item Write Embedded C code for maintaining VeriFone \& Pinpos POS Terminal and server Host Application.
+	\item Implement web portals using C\#, Microsoft ASP.NET, HTML, CSS, JavaScript.
+	\item Design \& implement web services used by Electronic Top-Up systems in C\#, Microsoft ASP.NET.
+	\item Develop cross-platform mobile application using PhoneGap.
+	\item Designed \& troubleshoot MSSQL databases and constructed complex queries, functions and triggers.
+	\item Automate processes using SQL Server Integration Services (SSIS).
+	\item Develope reports using SQL Server Reporting Services (SSRS).
+	\item Interpret business requirements, outline features, user stories and tasks for development.
+	\item Prepare test plan, test cases, user and technical documentations for systems and solutions.
+	\item Conduct brainstorming sessions for research and development, and presenting these new ideas to the company’s directors.\\
+	 
+    \end{itemize}}
+  \entry
+    {Summer of 2010}
+    {University of Technology, Jamaica}
+    {Kingston, Jamaica (Onsite)}
+    {\emph{Software Specialist}
+    \begin{itemize}
+	\item Provide input and recommendations surrounding hardware and software technologies to be used by the university.
+	\item Develop and monitor performance levels of software and hardware and evaluate, recommend, and propose alternative methods of information.		\item processing.  Assist with the troubleshooting, installation, and implementation of systems.
+	\item Help put processes in place to maintain a stable network environment.
+    \end{itemize}}
+\end{entrylist}
+
+\section{education}
+
+\begin{entrylist}
+  \entry
+    {2007–2011}
+    {Bachelor  {\normalfont of Science}}
+    {The University of Technology, Jamaica}
+    {\emph{ Computing \& Infromation Technology}}
+    {\\-  Major > Enterprise Computing\\-  Minor > Decision Science and Multimedia}
+  \entry
+    {2005–2007}
+    {Pre-University Diploma}
+    {St. George's College, Jamaica}
+    {\emph{Computer Science \& Pure Math}}{}
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	Technological Skills SECTION
+%----------------------------------------------------------------------------------------
+
+\section{technological skills}
+\textbf{Languages:}
+\begin{itemize}
+	\item \textbf{Proficient:} C\#, HTML, CSS(Bootstrap, SASS/SCSS \& LESS), JavaScript, Emebdded C \& C++, Java.
+\end{itemize}
+\textbf{Software:}
+\begin{itemize}
+	\item \textbf{Database:} Microsoft SQL Server(Database design, SSIS, SSRS), MySQL, MongoDB and SQLite 
+	\item \textbf{Platforms:} Windows, Windows Server, Linux, Mac OS X
+	\item \textbf{Familiar with testing frameworks:} nUnit, XUnit, Jasmine, Karma, Protractor
+	\item \textbf{Other technologies:} GitHub, Visual Studio, npm, Node.js,Gulp,ExpressJS, MongooseJS
+\end{itemize}
+\textbf{Development Framework \& Library:}
+\begin{itemize}
+	\item \textbf{Microsoft:} .Net, .Net Core, Entity Framework
+	\item \textbf{Mobile Cross-platform:} Ionic, PhoneGap or Apache Cordova.
+	\item \textbf{Front End Web:} AngularJS, Bootstrap, JQuery Library, Bower
+\end{itemize}
+\textbf{Multimedia Tools:}
+\begin{itemize}
+	\item Gimp, Adobe Fireworks and Flash  
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	Active Side Projects
+%----------------------------------------------------------------------------------------
+
+\section{active side projects}
+\begin{itemize}
+	\item Solution for data mining and analysis for Jamaican Stock market and Crytocurrency
+    	\item Communting/Transportation applicaiton 
+	\item H2O run car on water
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	Past Clients 
+%----------------------------------------------------------------------------------------
+
+\section{notable past clients}
+\begin{itemize}
+	\item Top-Up Distribution Companies
+    	\item Banking and Financial Sector Companies
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+% ACHIEVEMENTS
+%----------------------------------------------------------------------------------------
+
+\section{achievements}
+\textbf{\underline{Certificates:}}
+	\begin{entrylist}
+	\entry	
+		{July 17, 2017}
+		{\href{https://www.coursera.org/account/accomplishments/certificate/XCJWYF6B9RE7}{Server-side Development with NodeJS}}
+		{\\The Hong Kong University of Science and Technology on \emph{Coursera}}{}
+	\entry	
+		{June 14, 2017}
+		{\href{https://www.coursera.org/account/accomplishments/certificate/5PBDCAG9K42S}{Multiplatform Mobile App Development with Web Technologies}}
+		{\\The Hong Kong University of Science and Technology on \emph{Coursera}}{}
+	\entry	
+		{April 25, 2017}
+		{\href{https://www.coursera.org/account/accomplishments/certificate/44H3T6RYXUET}{Front-End JavaScript Frameworks: AngularJS}}
+		{\\The Hong Kong University of Science and Technology on \emph{Coursera}}{}
+	\entry	
+		{March 20, 2017}
+		{\href{https://www.coursera.org/account/accomplishments/certificate/RABKZD4F7DVB}{Front-End W eb UI Frameworks and Tools}}
+		{\\The Hong Kong University of Science and Technology on \emph{Coursera}}{}
+	\entry	
+		{Februrary 8, 2017}
+		{\href{https://www.coursera.org/account/accomplishments/certificate/KB222U54JKWU}{HTML, CSS and JavaScript}}
+		{\\The Hong Kong University of Science and Technology on \emph{Coursera}}{}
+	\end{entrylist}
+\textbf{\underline{New Harbour Village III Benevolent Society:}}
+	\begin{itemize}
+		\item \textbf{Appreciation Award 2016} In recognition of commitment and dedication community
+		\item \textbf{Recognition Award 2016} In honor of commitment and selfless dedication towards the security of the community
+	\end{itemize}
+\textbf{\underline{Management Control Systems:}}
+	\begin{itemize}
+		\item \textbf{\href{http://www.jamaicaobserver.com/news/MC-Systems-awards}{Employee Of The Year}} (December 2015) In Recognition of Outstanding Contribution
+		\item \textbf{Service Excellence Award} (December 2015) In Recognition of Outstanding Customer Service Performance
+	\end{itemize}
+\textbf{\underline{Proyectalis:}}
+	\begin{itemize}
+		\item \textbf{\href{http://www.proyectalis.com/en/servicios/}{Agile Software Delivery and Management Training}} (May, 2014) by Lead Consultant \href{http://www.proyectalis.com/en/angelmedinilla/}{Angel Medinilla}
+	\end{itemize}
+\textbf{\underline{VeriFone Systems Incorporation:}}
+	\begin{itemize}
+		\item \textbf{\href{https://www.verifonedevnet.com/verifone/devnet/dnHome.do}{Verix Application Developers Certification}} (September 2011) Successfully completed Vx eVo application developers training.
+	\end{itemize}
+\textbf{\underline{Microsoft Corporation:}}
+	\begin{itemize}
+		\item \textbf{\href{https://mva.microsoft.com/}{Certified Participant in Windows Virtual Communities}} (March 2011) Satisfactorily completed the training with Microsoft Partners in Learning
+	\end{itemize}
+
+%----------------------------------------------------------------------------------------
+% Voluntary Service
+%----------------------------------------------------------------------------------------
+
+\section{voluntary service}
+\textbf{\underline{The University of Technology, Jamaica:}}
+	\begin{itemize}
+		\item \textbf{Chairman of \href{https://www.utechsapna.com/home/about}{Sapna's} Advisory Board} (September, 2013 –2015)
+		\item \textbf{Cofounder Of \href{https://www.utechsapna.com/home/about}{Sapna}} (yr. 2010). The University’s core programming team that develops applications and engages in software competition locally and internationally.
+		\item \textbf{Chairman} (yr. 2008 –2010), University of Technology, Jamaica Student Chapter of the Association for Computing Machinery (\textbf{\href{http://www.acm.org/}{ACM}}).
+	\end{itemize}
+\textbf{\underline{New Harbour Village III Benevolent Society}}
+	\begin{itemize}
+		\item Consultancy - Community Technology integration, Safety \& Security, Beautification
+	\end{itemize}
+\textbf{\underline{National Youth Service}}
+	\begin{itemize}
+		\item yr 2004 Representative to Jamaica at the 29th Regional Conference of the Caribbean, the Americas and the Atlantic Region of Commonwealth Parliamentary Association
+	\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	INTERNET PROFILES
+%----------------------------------------------------------------------------------------
+
+\section{online profiles}
+
+My online community activities:
+\begin{itemize}[noitemsep]
+	\item[] \includegraphics[height=16pt]{images/ch9Icon.png} \textbf{Channel9: }\href{https://channel9.msdn.com/Niners/nnation}{https://channel9.msdn.com/Niners/nnation}
+	\item[] \includegraphics[height=16pt]{images/octocat.png} \textbf{Github: }\href{https://github.com/nnation}{https://github.com/nnation}
+	\item[] \includegraphics[height=16pt]{images/stackoverflow.png} \textbf{StackOverflow: }\href{https://stackoverflow.com/users/1350391/nation}{https://stackoverflow.com/users/1350391/nation}
+	\item[] \includegraphics[height=16pt]{images/stackexchange.png} \textbf{StackExchange: } \href {https://stackexchange.com/users/1427200/nation?tab=accounts}{https://stackexchange.com/users/1427200/nation?tab=accounts}
+	\item[] \includegraphics[height=12pt]{images/twitter.png}  \textbf{Twitter: }\href {https://twitter.com/NathNation}{https://twitter.com/NathNation}
+    	\item[] \includegraphics[height=16pt]{images/linkedin.png}  \textbf{Linkedin: }\href {https://www.linkedin.com/in/nathaniel-nation-5645642a/}{https://www.linkedin.com/in/nathaniel-nation-5645642a/}
+	\item[] \includegraphics[height=16pt]{images/skype.png} \textbf{Skype: }\href {https://web.skype.com/en}{@nathan406}
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{interests}
+
+\textbf{professional:} Solutions development (web, mobile \& desktop), embedded development, automation, project management, R\&D, idea brainstorming, application architecting, security, training, site searching, computer and social networking, blockchain technology, computer hardware
+\textbf{personal:} hiking, swimming, basketball, audio books, music, books, podcasts, DIY projects, tech news, reading news paper, investments (stocks \& bonds, cryptocurrency).
+
+%----------------------------------------------------------------------------------------
+%	USEFUL ASSETS
+%----------------------------------------------------------------------------------------
+
+\section{useful assets}
+\begin{itemize}
+	\item United States Non-Immigrant B1/B2 Visa
+	\item Bank of America Account
+	\item Driver's License
+	\item Sense of Humor
+\end{itemize}
+
+
+%%% This piece of code has been commented by Karol Kozioł due to biblatex errors. 
+% 
+%\printbibsection{article}{article in peer-reviewed journal}
+%\begin{refsection}
+%  \nocite{*}
+%  \printbibliography[sorting=chronological, type=inproceedings, title={international peer-reviewed conferences/proceedings}, notkeyword={france}, heading=subbibliography]
+%\end{refsection}
+%\begin{refsection}
+%  \nocite{*}
+%  \printbibliography[sorting=chronological, type=inproceedings, title={local peer-reviewed conferences/proceedings}, keyword={france}, heading=subbibliography]
+%\end{refsection}
+%\printbibsection{misc}{other publications}
+%\printbibsection{report}{research reports}
+\pagenote{\updateinfo  - Made with \LaTeX.}
+\end{document}

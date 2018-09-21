@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350 64-bit) (preloaded format=xelatex 2017.10.16)  23 NOV 2017 16:18
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350 64-bit) (preloaded format=xelatex 2017.10.16)  11 APR 2018 10:56
 entering extended mode
 **./cv.tex
 (cv.tex
@@ -1478,123 +1478,108 @@ File: images/CSharp.png Graphic file (type QTm)
 <use  "images/CSharp.png" >
 File: images/email.png Graphic file (type QTm)
  <use  "images/email.png" >
-File: images/skype.png Graphic file (type QTm)
-
-<use  "images/skype.png" >
-File: images/twitter.png Graphic file (type QTm)
- <use  "images/twitter.png" >
-File: images/ch9Icon.png Graphic file (type QTm)
-
-<use  "images/ch9Icon.png" >
-File: images/octocat.png Graphic file (type QTm)
- <use  "images/octocat.png" >
-File: images/stackexchange.png Graphic file (type QTm)
-
-<use  "images/stackexchange.png" >
-File: images/linkedin.png Graphic file (type QTm)
- <use  "images/linkedin.png" >
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 71.
+(Font)              scaled to size 10.00015pt on input line 59.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.01247pt on input line 71.
+(Font)              scaled to size 7.01247pt on input line 59.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 4.9808pt on input line 71.
+(Font)              scaled to size 4.9808pt on input line 59.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 71.
+(Font)              scaled to size 9.99985pt on input line 59.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.01224pt on input line 71.
+(Font)              scaled to size 7.01224pt on input line 59.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.98067pt on input line 71.
+(Font)              scaled to size 4.98067pt on input line 59.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 88.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 76.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 88.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 76.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 88.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 76.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 88.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 76.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 88.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 76.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 88.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 76.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 88.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 76.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 88.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 76.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
 
  []
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 107.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 107.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 107.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-Overfull \hbox (26.6714pt too wide) in paragraph at lines 107--107
+Overfull \hbox (26.6714pt too wide) in paragraph at lines 95--95
 []\TU/HelveticaNeueLight(1)/m/n/10 Implement web portals using C#, Microsoft AS
 P.NET, HTML, CSS, JavaScript. 
  []
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 107.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 107.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 107.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 107.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 107.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 107.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 107.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 107.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
 
  []
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 117.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 105.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 117.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 105.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 117.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 105.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 117.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 105.
 
 LaTeX Font Info:    Font shape `TU/HelveticaNeueLight(1)/m/sl' in size <10> not
  available
 (Font)              Font shape `TU/HelveticaNeueLight(1)/m/it' tried instead on
- input line 121.
+ input line 109.
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 12.0pt.
@@ -1615,18 +1600,12 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 ) [1
 
 ]
-Overfull \hbox (8.55545pt too wide) in paragraph at lines 150--151
+Overfull \hbox (8.55545pt too wide) in paragraph at lines 138--139
 [][]\TU/HelveticaNeueBold(0)/m/n/10 Other technologies:[] \TU/HelveticaNeueLigh
 t(1)/m/n/10 GitHub, Visual Studio, npm, Node.js,Gulp,ExpressJS, MongooseJS 
  []
 
 [2]
-Overfull \hbox (3.95944pt too wide) in paragraph at lines 229--230
-[][][]\TU/HelveticaNeueBold(0)/m/n/10 Verix Application Developers Certificatio
-n[][] \TU/HelveticaNeueLight(1)/m/n/10 (September 2011) Successfully completed
- []
-
-[3]
 File: images/ch9Icon.png Graphic file (type QTm)
  <use  "images/ch9Icon.png" >
 File: images/octocat.png Graphic file (type QTm)
@@ -1636,49 +1615,42 @@ File: images/stackoverflow.png Graphic file (type QTm)
 <use  "images/stackoverflow.png" >
 File: images/stackexchange.png Graphic file (type QTm)
  <use  "images/stackexchange.png" >
-Overfull \hbox (9.93472pt too wide) in paragraph at lines 267--268
+Overfull \hbox (9.93472pt too wide) in paragraph at lines 223--224
 [][] []\TU/HelveticaNeueBold(0)/m/n/10 StackExchange: [] []\TU/HelveticaNeueLig
 ht(1)/m/n/10 https://stackexchange.com/users/1427200/nation?tab=accounts[] 
  []
 
-File: images/twitter.png Graphic file (type QTm)
-<use  "images/twitter.png" >
-File: images/linkedin.png Graphic file (type QTm)
- <use  "images/linkedin.png" >
-File: images/skype.png Graphic file (type QTm)
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 8.00012pt on input line 249.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 6.00009pt on input line 249.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.00008pt on input line 249.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.99988pt on input line 249.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.99991pt on input line 249.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 4.99992pt on input line 249.
 
-<use  "images/skype.png" >
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.00012pt on input line 308.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 308.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 308.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.99988pt on input line 308.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 308.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 308.
- 
 AED: lastpage setting LastPage
-[4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 309.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 309.
+[3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 250.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 250.
  (cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 309.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 309.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 250.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 250.
 Package logreq Info: Writing requests to 'cv.run.xml'.
 \openout1 = `cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38989 strings out of 427834
- 744188 string characters out of 3148122
- 1278765 words of memory out of 3000000
- 42505 multiletter control sequences out of 15000+200000
- 533597 words of font info for 77 fonts, out of 3000000 for 9000
+ 38981 strings out of 427834
+ 744015 string characters out of 3148122
+ 1277765 words of memory out of 3000000
+ 42501 multiletter control sequences out of 15000+200000
+ 533589 words of font info for 76 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  73i,11n,70p,10407b,3426s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on cv.pdf (4 pages).
+Output written on cv.pdf (3 pages).

@@ -51,11 +51,11 @@
 \RequirePackage{unicode-math}
 
 \newfontfamily\bodyfont[]{HelveticaNeue}
-\newfontfamily\thinfont[]{HelveticaNeue Light}
-\newfontfamily\headingfont[]{HelveticaNeue Bold}
+\newfontfamily\thinfont[]{"Helvetica Light"}
+\newfontfamily\headingfont[]{["Helvetica Bold"}
 
 \defaultfontfeatures{Mapping=tex-text}
-\setmainfont[Mapping=tex-text, Color=textcolor]{HelveticaNeue Light}
+\setmainfont{Times}[Color=textcolor]
 
 %\setmathfont{XITS Math}
 

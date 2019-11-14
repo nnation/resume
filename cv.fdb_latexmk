@@ -1,0 +1,23 @@
+# Fdb version 3
+["pdflatex"] 1573577324 "cv.tex" "cv.pdf" "cv" 1573577324
+  "/Users/nnation/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1549681066 755605 4f24a7230e8d0edc49ee302e9c065020 ""
+  "/Users/nnation/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/Users/nnation/Library/Application Support/MiKTeX/texmfs/install/tex/generic/unicode-data/UnicodeData.txt" 1528522844 1769137 acc291106c3758d2025f8d7bd5518bee ""
+  "/Users/nnation/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls" 1544471104 19933 3097d1b31d3c45dc957096f554529032 ""
+  "/Users/nnation/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo" 1544471102 8294 6d6e23d5169c0d89d173f6c7e08a005a ""
+  "/Users/nnation/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontspec/fontspec.sty" 1548454142 1655 7c33afbd084aff9ec96c63af9f545e06 ""
+  "/Users/nnation/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg" 1465894292 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
+  "/Users/nnation/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def" 1515448300 17334 520b9b85ad8a2a48eda3f643e27a5179 ""
+  "/Users/nnation/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kernel/expl3-code.tex" 1548660708 972024 fd41237dd924281bb6e054d05ceae0f6 ""
+  "/Users/nnation/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kernel/expl3.sty" 1548660708 9824 3d98d54ddca05900fec99cbfcadab0c6 ""
+  "/Users/nnation/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kernel/l3pdfmode.def" 1548660708 16212 b57a98e68870cee3182a4ba993f8f715 ""
+  "/Users/nnation/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xparse/xparse.sty" 1539798836 78679 0f13caccf8fc0a14ee080e185fe4bd6e ""
+  "/Users/nnation/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1463135581 57049 74963e80d77be39a0b7442967b27c75b ""
+  "cv.aux" 1573577287 1306 0feef9853330577622e1f2e1779b4d78 ""
+  "cv.tex" 1573577323 12932 f858230e1af0b113d6c760aa1732b5e5 ""
+  "friggeri-cvRS.cls" 1573570863 7094 be78593f787b8f9bab4bb8904fd99f69 ""
+  (generated)
+  "cv.out"
+  "cv.aux"
+  "cv.pdf"
+  "cv.log"

@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (MiKTeX 2.9.6800)  (format=lualatex 2019.2.8)  15 NOV 2019 00:07
+This is LuaTeX, Version 1.07.0 (MiKTeX 2.9.6800)  (format=lualatex 2019.2.8)  15 NOV 2019 14:29
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.105 seconds
+luaotfload | main : initialization completed in 0.110 seconds
 (./friggeri-cvRS.cls
 
 LaTeX Warning: You have requested document class `friggeri-cvRS',
@@ -1435,37 +1435,47 @@ File: images/email.png Graphic file (type png)
 <use images/email.png>
 Package luatex.def Info: images/email.png  used on input line 39.
 (luatex.def)             Requested size: 15.99918pt x 16.0pt.
+<images/twitter.png, id=11, 151.56625pt x 122.4575pt>
+File: images/twitter.png Graphic file (type png)
+<use images/twitter.png>
+Package luatex.def Info: images/twitter.png  used on input line 41.
+(luatex.def)             Requested size: 14.85223pt x 12.0pt.
+<images/linkedin.png, id=13, 602.25pt x 603.25375pt>
+File: images/linkedin.png Graphic file (type png)
+<use images/linkedin.png>
+Package luatex.def Info: images/linkedin.png  used on input line 43.
+(luatex.def)             Requested size: 15.97148pt x 16.0pt.
 luaotfload | aux : font no 68 (nil) defines no feature for script latn
 luaotfload | aux : no font with id 68
 luaotfload | aux : font no 68 (nil) defines no feature for script dflt
 luaotfload | aux : no font with id 68
 
 LaTeX Font Warning: Font shape `TU/Times(0)/m/it' undefined
-(Font)              using `TU/Times(0)/m/n' instead on input line 75.
+(Font)              using `TU/Times(0)/m/n' instead on input line 79.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 75.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 79.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 75.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 79.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 75.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 79.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 75.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 79.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 75.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 79.
 
 
-Overfull \hbox (5.46643pt too wide) in paragraph at lines 75--75
+Overfull \hbox (5.46643pt too wide) in paragraph at lines 79--79
 []\TU/Times(0)/m/n/10 Provide Software Development Consultancy to partners, ass
 ociated companies
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
 
  []
 
@@ -1474,31 +1484,31 @@ luaotfload | aux : no font with id 68
 luaotfload | aux : font no 68 (nil) defines no feature for script dflt
 luaotfload | aux : no font with id 68
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 91.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 91.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 91.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 91.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 91.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 91.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 91.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 91.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 95.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
 
  []
 
@@ -1507,70 +1517,70 @@ luaotfload | aux : no font with id 68
 luaotfload | aux : font no 68 (nil) defines no feature for script dflt
 luaotfload | aux : no font with id 68
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 110.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 114.
 
 
-Overfull \hbox (15.7415pt too wide) in paragraph at lines 110--110
+Overfull \hbox (15.7415pt too wide) in paragraph at lines 114--114
 []\TU/Times(0)/m/it/10 Develop, Maintain and support regional (Caribbean) Elect
 ronic Top-Up Systems. 
  []
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 110.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 114.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 110.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 114.
 
 
-Overfull \hbox (11.91989pt too wide) in paragraph at lines 110--110
+Overfull \hbox (11.91989pt too wide) in paragraph at lines 114--114
 []\TU/Times(0)/m/it/10 Implement web portals using C#, Microsoft ASP.NET, HTML,
  CSS, JavaScript. 
  []
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 110.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 114.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 110.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 114.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 110.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 114.
 
 
-Overfull \hbox (3.09354pt too wide) in paragraph at lines 110--110
+Overfull \hbox (3.09354pt too wide) in paragraph at lines 114--114
 []\TU/Times(0)/m/it/10 Designed & troubleshoot MSSQL databases and constructed 
 complex queries,
  []
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 110.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 114.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 110.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 114.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 110.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 114.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 110.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 114.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 110.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 114.
 
 
-Overfull \hbox (2.13799pt too wide) in paragraph at lines 110--110
+Overfull \hbox (2.13799pt too wide) in paragraph at lines 114--114
 []\TU/Times(0)/m/it/10 Conduct brainstorming sessions for research and developm
 ent, and presenting
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 
  []
 
 
 LaTeX Font Warning: Font shape `TU/Times(0)/m/sl' undefined
-(Font)              using `TU/Times(0)/m/n' instead on input line 122.
+(Font)              using `TU/Times(0)/m/n' instead on input line 126.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1587,7 +1597,8 @@ This may cause the page layout to be inconsistent, however.
 [1
 
 {/Users/nnation/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdf
-tex.map}<./images/ICP.png><./images/sfc.png><./images/email.png>]
+tex.map}<./images/ICP.png><./images/sfc.png><./images/email.png><./images/twitte
+r.png><./images/linkedin.png>]
 luaotfload | aux : font no 68 (nil) defines no feature for script latn
 luaotfload | aux : no font with id 68
 luaotfload | aux : font no 68 (nil) defines no feature for script dflt
@@ -1596,55 +1607,55 @@ luaotfload | aux : font no 68 (nil) defines no feature for script latn
 luaotfload | aux : no font with id 68
 luaotfload | aux : font no 68 (nil) defines no feature for script dflt
 luaotfload | aux : no font with id 68 [2]
-<images/octocat.png, id=41, 513.92pt x 513.92pt>
+<images/octocat.png, id=49, 513.92pt x 513.92pt>
 File: images/octocat.png Graphic file (type png)
 <use images/octocat.png>
-Package luatex.def Info: images/octocat.png  used on input line 244.
+Package luatex.def Info: images/octocat.png  used on input line 248.
 (luatex.def)             Requested size: 15.99722pt x 16.0pt.
-<images/stackoverflow.png, id=43, 158.5925pt x 158.5925pt>
+<images/stackoverflow.png, id=51, 158.5925pt x 158.5925pt>
 File: images/stackoverflow.png Graphic file (type png)
 <use images/stackoverflow.png>
-Package luatex.def Info: images/stackoverflow.png  used on input line 245.
+Package luatex.def Info: images/stackoverflow.png  used on input line 249.
 (luatex.def)             Requested size: 15.99811pt x 16.0pt.
 
-Overfull \hbox (20.28471pt too wide) in paragraph at lines 255--257
+Overfull \hbox (20.28471pt too wide) in paragraph at lines 259--261
 [][]\TU/["HelveticaBold"(0)/m/n/10 professional:[] \TU/Times(0)/m/sl/10 Servant
  leader, Solutions development (web, mobile & desktop), embedded development,
  []
 
 
-Overfull \hbox (5.18608pt too wide) in paragraph at lines 255--257
+Overfull \hbox (5.18608pt too wide) in paragraph at lines 259--261
 \TU/Times(0)/m/sl/10 networking, blockchain technologies, computer hardware []\
 TU/["HelveticaBold"(0)/m/n/10 personal:[] \TU/Times(0)/m/sl/10 hiking, swimming
 , audio books,
  []
 
 
-Overfull \hbox (20.89622pt too wide) in paragraph at lines 255--257
+Overfull \hbox (20.89622pt too wide) in paragraph at lines 259--261
 \TU/Times(0)/m/sl/10 music, books, DIY projects, tech news, reading news paper,
  investments (stocks & bonds, cryptocurrency). 
  []
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00012pt on input line 272.
+(Font)              scaled to size 8.00012pt on input line 276.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 272.
+(Font)              scaled to size 6.00009pt on input line 276.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 272.
+(Font)              scaled to size 5.00008pt on input line 276.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99988pt on input line 272.
+(Font)              scaled to size 7.99988pt on input line 276.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 272.
+(Font)              scaled to size 5.99991pt on input line 276.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 272.
+(Font)              scaled to size 4.99992pt on input line 276.
 
 AED: lastpage setting LastPage
 [3<./images/octocat.png><./images/stackoverflow.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 273.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 273.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 277.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 277.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 273.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 273.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 277.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 277.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1657,22 +1668,22 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 39420 strings out of 494397
+ 39440 strings out of 494397
  125171,1373583 words of node,token memory allocated
- 533 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 2 math, 3 glue, 3 kern, 2 glyph, 13 attribute, 58 g
-lue_spec, 11 attribute_list, 2 write, 1 pdf_action nodes
-   avail lists: 1:1,2:1790,3:275,4:235,5:66,6:57,7:3446,8:28,9:294,10:8,11:7
- 42269 multiletter control sequences out of 65536+200000
- 84 fonts using 28604511 bytes
+ 553 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 2 math, 3 glue, 3 kern, 2 glyph, 15 attribute, 58 g
+lue_spec, 13 attribute_list, 2 write, 3 pdf_action nodes
+   avail lists: 1:1,2:1886,3:287,4:243,5:66,6:61,7:3523,8:28,9:314,10:8,11:7
+ 42277 multiletter control sequences out of 65536+200000
+ 84 fonts using 28604751 bytes
  73i,11n,84p,999b,1151s stack positions out of 5000i,500n,10000p,200000b,50000s
 </Users/nnation/Library/Application Support/MiKTeX/texmfs/install/fonts/opentype
 /public/lm-math/latinmodern-math.otf></System/Library/Fonts/Times.ttc></System/L
 ibrary/Fonts/Helvetica.ttc></Users/nnation/Library/Fonts/HelveticaNeue.ttf></Sys
 tem/Library/Fonts/Helvetica.ttc>
-Output written on cv.pdf (3 pages, 159667 bytes).
+Output written on cv.pdf (3 pages, 188523 bytes).
 
-PDF statistics: 85 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

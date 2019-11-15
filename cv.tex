@@ -16,8 +16,12 @@
 \cfoot{Page: \thepage\ of \pageref*{LastPage}}
 
 \begin{document}
-\header{Nathaniel }{Nation}
-       {Agility | \includegraphics[scale=0.1]{images/ICP.png} \includegraphics[scale=0.08]{images/sfc.png} | Scrum Master}
+\header{Nathaniel }{Nation} 
+	{Agility | \begin{tikzpicture}
+      \node(block) [right,text width=50pt,rounded corners,fill=white!20,inner sep=0.2ex]{ \includegraphics[height=25pt]{images/ICP.png}\includegraphics[height=25pt]{images/sfc.png}};
+\end{tikzpicture} | Scrum Master}
+
+%\node[right,text width=11.7cm,rounded corners,fill=blue!20,inner sep=1ex]{   }     \colorbox{white}
 
 %----------------------------------------------------------------------------------------
 %	SIDEBAR SECTION
